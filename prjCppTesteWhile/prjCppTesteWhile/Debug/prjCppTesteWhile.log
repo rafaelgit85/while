@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\rafae\Desktop\Algorithm\while\while\prjCppTesteWhile\prjCppTesteWhile\main.cpp(5,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  prjCppTesteWhile.vcxproj -> C:\Users\rafae\Desktop\Algorithm\while\while\prjCppTesteWhile\Debug\prjCppTesteWhile.exe
